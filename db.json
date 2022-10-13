@@ -1,0 +1,52 @@
+[
+  {
+    "tipo": "sumar",
+    "params": [
+      2,
+      7
+    ],
+    "result": 9,
+    "timestamp": 1649116368332,
+    "id": 1
+  },
+  {
+    "tipo": "sumar",
+    "params": [
+      2,
+      8
+    ],
+    "result": 10,
+    "timestamp": 1649116482870,
+    "id": 2
+  },
+  {
+    "tipo": "sumar",
+    "params": [
+      2,
+      10
+    ],
+    "result": 12,
+    "timestamp": 1649116486104,
+    "id": 3
+  },
+  {
+    "tipo": "sumar",
+    "params": [
+      1,
+      6
+    ],
+    "result": 7,
+    "timestamp": 1665623805853,
+    "id": 4
+  },
+  {
+    "tipo": "sumar",
+    "params": [
+      1,
+      10
+    ],
+    "result": 11,
+    "timestamp": 1665623809792,
+    "id": 5
+  }
+]
